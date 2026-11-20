@@ -1,0 +1,15 @@
+Architecture :
+
+Worker / Employer (WhatsApp, voice or text)
+        |
+Interface: WhatsApp channel + speech-to-text (+ web view for testing)
+        |
+Orchestrator + language model (extraction, clarifying questions, explanations)
+        |
+Backend rules: eligibility, publication, consent / sharing
+        |
+Rules-based matching engine
+        |
+Database: profiles, employers, listings, applications, consent history, feedback
+        |
+Admin dashboard (listing review, reported issues) + scheduler (follow-ups)
