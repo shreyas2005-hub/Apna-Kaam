@@ -78,4 +78,4 @@ A real pilot (a few ITIs, skilling centres, employers and panchayats in one dist
 
 ## Team
 
-[Team name] · [Members] · [College]
+Team mosaic · Shreyas K S & Sahana S Hebbar · Cambridge Institute Of Technology
