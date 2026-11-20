@@ -6,7 +6,7 @@ Hackathon entry for problem 8.2: *Rural youth cannot find work that fits, and sm
 
 > Status: idea submission. The prototype is planned, not yet built. Everything below describes what we will build, and we will mark which parts are live and which are simulated.
 
-## The problem
+## The Problem
 
 Young people in rural areas with school, ITI or college qualifications struggle to find local work that fits their skills, location and income needs. Jobs travel through relatives, WhatsApp forwards and agents. According to the challenge brief, small employers take 2 to 3 months to hire and 40 to 50 percent of hires fail within three months. Workers also risk fake listings and unpaid wages.
 
